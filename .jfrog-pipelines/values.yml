@@ -1,4 +1,0 @@
-repoPath: piptask/pipe-task-hello-world
-mainBranch: main
-gitIntegration: myGithub
-artIntegration: myArtifactory
