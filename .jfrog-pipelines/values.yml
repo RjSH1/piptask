@@ -1,0 +1,4 @@
+repoPath: RjSH1/piptask
+mainBranch: main
+gitIntegration: myGithub
+artIntegration: myArtifactory
